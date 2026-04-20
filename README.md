@@ -1,16 +1,50 @@
 ## Hi there 👋
 
-<!--
-**frankmumo7546-dotcom/frankmumo7546-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<pre style="color:#00f5ff; text-shadow:0 0 8px #00f5ff;">
+███████╗██████╗  █████╗ ███╗   ██╗██╗  ██╗    ███╗   ███╗██╗   ██╗███╗   ███╗
+██╔════╝██╔══██╗██╔══██╗████╗  ██║██║ ██╔╝    ████╗ ████║██║   ██║████╗ ████║
+█████╗  ██████╔╝███████║██╔██╗ ██║█████╔╝     ██╔████╔██║██║   ██║██╔████╔██║
+██╔══╝  ██╔══██╗██╔══██║██║╚██╗██║██╔═██╗     ██║╚██╔╝██║██║   ██║██║╚██╔╝██║
+██║     ██║  ██║██║  ██║██║ ╚████║██║  ██╗    ██║ ╚═╝ ██║╚██████╔╝██║ ╚═╝ ██║
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝    ╚═╝     ╚═╝ ╚═════╝ ╚═╝     ╚═╝
 
-Here are some ideas to get you started:
+⚡ FRANK MUMO ⚡  
+DIGITAL SOLUTIONS • MERN STACK DEV
+</pre>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+- **Name:** Francis Mumo  
+- **Role:** Software Engineer · Full Stack Developer · Tech Educator  
+- **Location:** Kenya 🇰🇪  
+
+---
+
+### 🚀 Focus Areas
+- Building AI-powered products for Africa  
+- Full Stack MERN + Next.js development  
+- Flutter / Dart mobile apps  
+- Web3 · Solidity · DeFi  
+
+---
+
+### 🔨 Currently Building
+RistaTech FinTech Hub — An organization management system  
+
+---
+
+### 📚 Learning
+- Advanced React patterns  
+- Next.js architecture  
+- AI / ML integration  
+
+---
+
+### 🤝 Open To
+Collaborations on exciting open-source projects  
+
+---
+
+### ⚡ Motto
+> Ship fast. Learn faster. Build for Africa. 🚀
